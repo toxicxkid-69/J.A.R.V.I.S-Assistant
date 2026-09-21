@@ -1,4 +1,4 @@
-# J.A.R.V.I.S. Desktop Voice Assistant 🔥 (Enhanced Edition)
+# J.A.R.V.I.S. Assistant 🔥 (Enhanced Edition)
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="Jarvis GIF" width="550">

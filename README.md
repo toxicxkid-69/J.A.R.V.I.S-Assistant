@@ -6,6 +6,8 @@
 
 **An intelligent, futuristic desktop voice & text assistant built with Python. Features an Iron Man-inspired animated Arc Reactor HUD GUI, real-time speech recognition, smart task automation, note memory, and a dual-input control panel.**
 
+**JARVIS is a normal bot it can handle basic tasks like opening/closing/switching tabs, opening and closing apps, searching something, answering to basic questions don't expect complex problem solving or complex task**
+
 > 🚀 **Quick Start**: Check out the comprehensive **[INSTALLATION.md](INSTALLATION.md)** setup guide or view all supported voice/text commands in **[COMMANDS.md](COMMANDS.md)**! To run instantly, double-click **`run.bat`**!
 
 ---
